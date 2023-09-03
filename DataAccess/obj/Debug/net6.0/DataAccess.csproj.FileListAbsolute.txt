@@ -1,0 +1,16 @@
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\bin\Debug\net6.0\appsettings.json
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

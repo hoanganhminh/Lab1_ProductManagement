@@ -1,0 +1,15 @@
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\bin\Debug\net6.0\appsettings.json
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+F:\Ki 8\C#\Lab1_ProductManagement\Lab1_ProductManagement\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
